@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Asim Mazin"
-  avatar           : "/images/Mazin1 copy.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Mazin1 copy.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Tampa,FL"
   email            : "asimmazin@gmail.com"
