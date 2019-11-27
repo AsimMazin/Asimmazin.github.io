@@ -132,6 +132,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/asimmazin/"
 
 # Site Footer
 footer:
@@ -154,6 +157,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+
 
 
 # Reading Files
@@ -293,3 +297,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  _ sope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
