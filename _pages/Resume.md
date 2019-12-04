@@ -1,8 +1,6 @@
 ---
 title: "Resume"
 permalink: /Resume/
-header:
-    #image:
 ---
 <center><span style="font-family:Didot; font-size:2.5em;">Daffy Duck</span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">**Website:**[https://www.monique.tech](https://www.monique.tech)</span></center>
