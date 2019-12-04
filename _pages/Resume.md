@@ -5,7 +5,7 @@ permalink: /Resume/
 
 
 <span style="font-family:Didot; font-size:2em;">Objective</span>
-> Place your objective here! We can talk about our goals in software development or even how you aspire to be a race car driver. Just make it pertinent to the position your applying for in a debonaire way. Like, 'Oh I happen to be looking for a position where I can utilize my management experience and love for ice cream and you just happen to be Dairy Queen'.
+Place your objective here! We can talk about our goals in software development or even how you aspire to be a race car driver. Just make it pertinent to the position your applying for in a debonaire way. Like, 'Oh I happen to be looking for a position where I can utilize my management experience and love for ice cream and you just happen to be Dairy Queen'.
 
 
 
@@ -66,7 +66,3 @@ permalink: /Resume/
  > * **In lieu of this section you can also put a Foreign Languages section or a Products section if you have products in the app store**
  > * **Tip: If all of your foreign languages are Beginner, think about whether or not you want to include them**
 
-
-- - - -
-> **Email:** yourEmail@yourEmail.com
-> **Phone:**+1(000)867-5309
