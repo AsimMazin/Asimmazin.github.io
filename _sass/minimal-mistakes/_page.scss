@@ -547,7 +547,7 @@ body {
     }
 
     @include breakpoint($x-large) {
-      max-width: $max-width;
+      padding-right: 0;
     }
   }
 }
