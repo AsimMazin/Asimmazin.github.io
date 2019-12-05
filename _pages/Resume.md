@@ -5,12 +5,12 @@ permalink: /Resume/
 ---
 
 
-<span style="font-family:Didot; font-size:2em;">Objective</span>
+<span style="font-family:Didot; font-size:1em;">Objective</span>
 >Place your objective here! We can talk about our goals in software development or even how you aspire to be a race car driver. Just make it pertinent to the position your applying for in a debonaire way. Like, 'Oh I happen to be looking for a position where I can utilize my management experience and love for ice cream and you just happen to be Dairy Queen'.
 
 
 
-<span style="font-family:Didot; font-size:2em;">Education</span>
+<span style="font-family:Didot; font-size:1em;">Education</span>
 <br />
 - - - -
 
@@ -21,7 +21,7 @@ permalink: /Resume/
 > 3. Or those really cool honor societies you joined
 > 4. Choose these highlights based off of the position you are applying for so you can really shine
 
-<span style="font-family:Didot; font-size:2em;">Technical Experience</span>
+<span style="font-family:Didot; font-size:1em;">Technical Experience</span>
 <br />
 - - - -
 
@@ -50,7 +50,7 @@ permalink: /Resume/
 
 
 
-<span style="font-family:Didot; font-size:2em;">Programming Languages</span>
+<span style="font-family:Didot; font-size:1em;">Programming Languages</span>
 <br />
 - - - -
 
@@ -58,7 +58,7 @@ permalink: /Resume/
    >* **Tip: Remember every language here is *FAIR GAME*, if you don't feel comfortable coding in it, do not include it. It is all about *DEPTH* of knowledge not *BREADTH* of knowledge**
    >* **Tip: You don't have to classify information as beginner,intermediate, advanced. You can also use years experience as well.**
 
-<span style="font-family:Didot; font-size:2em;">Tools/Platforms</span>
+<span style="font-family:Didot; font-size:1em;">Tools/Platforms</span>
 <br />
 - - - -
 
