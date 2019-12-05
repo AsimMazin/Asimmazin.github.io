@@ -10,9 +10,9 @@ Place your objective here!
 ----------------------------------------------------------------------------------------------------------------
 # Education
  **Ph.D.**, *Electrical Engineering*, **University of South Florida** <br />
- *Tampa, FL*       May 2019 <br />
- **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**     *Carbondale, IL*  May 2013 <br />
- **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology** *Misurata, Libya* May 2007
+ *Tampa, FL*,       May 2019 <br />
+ **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**     *Carbondale, IL*,  May 2013 <br />
+ **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology** *Misurata, Libya*, May 2007
 - - - - - -
 # Technical Experience
 <br />
