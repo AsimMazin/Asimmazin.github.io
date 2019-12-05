@@ -14,11 +14,11 @@ permalink: /Resume/
 <br />
 - - - -
 
- **Ph.D.**, *Electrical Engineering*, **University of South Florida**, *Tampa, FL* | May 2019
-:--------------------------------------------------------------------------------- | :-------
-**M.Sc.**, *Electrical Engineering*, **Southern Illinois University**, *Carbondale, IL* | May 2013
-:--------------------------------------------------------------------------------- | :-------
-**B.Sc.**, *Electrical Engineering*, **College of Industrial Technology**, *Misurata, Libya*   | May 2007
+> **Ph.D.**, *Electrical Engineering*, **University of South Florida**, *Tampa, FL* | May 2019
+
+> **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**, *Carbondale, IL* | May 2013
+
+> **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology**, *Misurata, Libya*   | May 2007
 
 > 1. Here you can place all of your cool accomplishments
 > 2. Like that one time you won the Google Hackathon
