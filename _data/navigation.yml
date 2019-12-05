@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Machine Learning"
+  - title: "Projects"
     url: /machinelearning/
   - title: "Resume"
     url: /Resume/
