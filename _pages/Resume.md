@@ -14,7 +14,7 @@ permalink: /Resume/
 <br />
 - - - -
 
-- **Ph.D.**, *Electrical Engineering*, **University of South Florida**, *Tampa, FL*                    |             Jan 2014 - May 2019
+ **Ph.D.**, *Electrical Engineering*, **University of South Florida**, *Tampa, FL*                    |             Jan 2014 - May 2019
 
 > 1. Here you can place all of your cool accomplishments
 > 2. Like that one time you won the Google Hackathon
