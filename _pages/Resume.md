@@ -8,24 +8,24 @@ permalink: /Resume/
 # Objective
 Place your objective here!
 
-- - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Education
-- - - -
 
-> **Ph.D.**, *Electrical Engineering*, **University of South Florida**, *Tampa, FL*  May 2019
 
-> **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**, *Carbondale, IL*  May 2013
+- **Ph.D.**, *Electrical Engineering*, **University of South Florida**, *Tampa, FL*  May 2019
 
-> **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology**, *Misurata, Libya*    May 2007
+- **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**, *Carbondale, IL*  May 2013
 
-> 1. Here you can place all of your cool accomplishments
-> 2. Like that one time you won the Google Hackathon
-> 3. Or those really cool honor societies you joined
-> 4. Choose these highlights based off of the position you are applying for so you can really shine
+- **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology**, *Misurata, Libya*    May 2007
+- - - - - - - - - - - - - - - - - - - -
+ 1. Here you can place all of your cool accomplishments
+ 2. Like that one time you won the Google Hackathon
+ 3. Or those really cool honor societies you joined
+ 4. Choose these highlights based off of the position you are applying for so you can really shine
 
 # Technical Experience
 <br />
-- - - -
+--------------------------------------------------------------------------------------------------
 
 **Product Manager New York, NY**
 **Instagram, Technical Product Manager**               January 2017 – Present
