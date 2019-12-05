@@ -1,17 +1,15 @@
 ---
 layout: single
-title: "Resume"
+title: ""
 permalink: /Resume/
 ---
 
 
 # Objective
-Place your objective here! We can talk about our goals in software development or even how you aspire to be a race car driver. Just make it pertinent to the position your applying for in a debonaire way. Like, 'Oh I happen to be looking for a position where I can utilize my management experience and love for ice cream and you just happen to be Dairy Queen'.
+Place your objective here!
 
-
-
-<span style="font-family:Didot; font-size:1em;">Education</span>
-<br />
+- - - -
+# Education
 - - - -
 
 > **Ph.D.**, *Electrical Engineering*, **University of South Florida**, *Tampa, FL*  May 2019
@@ -25,7 +23,7 @@ Place your objective here! We can talk about our goals in software development o
 > 3. Or those really cool honor societies you joined
 > 4. Choose these highlights based off of the position you are applying for so you can really shine
 
-<span style="font-family:Didot; font-size:1em;">Technical Experience</span>
+# Technical Experience
 <br />
 - - - -
 
