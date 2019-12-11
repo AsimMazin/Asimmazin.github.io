@@ -10,10 +10,9 @@ permalink: /Resume/
 Place your objective here!
 ----------------------------------------------------------------------------------------------------------------
 # Education
- **Ph.D.**, *Electrical Engineering*, **University of South Florida** <br />
- *Tampa, FL*,       May 2019 <br />
- **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**     *Carbondale, IL*,  May 2013 <br />
- **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology** *Misurata, Libya*, May 2007
+ - **Ph.D.**, *Electrical Engineering*, **University of South Florida**      *Tampa, FL*,       May 2019
+ - **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**     *Carbondale, IL*,  May 2013
+ - **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology** *Misurata, Libya*, May 2007
 - - - - - -
 # RESEARCH & WORK EXPERIENCE
 ## Applied Post-Doctoral Fellow, Moffit Cancer Center, Aug 2019 - Present
