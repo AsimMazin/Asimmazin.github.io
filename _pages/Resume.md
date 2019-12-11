@@ -15,10 +15,10 @@ Place your objective here!
  - **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology**, *Misurata, Libya*, May 2007
 -----------------------------------------------------------------------------------------------------------------------------
 ## Research & Work Experience
-    ### Applied Post-Doctoral Fellow, Moffit Cancer Center, Aug 2019 - Present
-    #### Apply machine learning on multiparameter MRI dataset
-        - Using self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 24 patients.
-        - Classify the tumors type from the activation maps using Learning Quantization Vector (LQV) with accuracy of 70%
+### Applied Post-Doctoral Fellow, Moffit Cancer Center, Aug 2019 - Present
+#### Apply machine learning on multiparameter MRI dataset
+    - Using self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 24 patients.
+    - Classify the tumors type from the activation maps using Learning Quantization Vector (LQV) with accuracy of 70%
 ------------------------------------------------------------------------------------------------------------------------------
 
 **Product Manager New York, NY**
