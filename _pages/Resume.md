@@ -14,6 +14,7 @@ Place your objective here!
  - **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**,     *Carbondale, IL*,  May 2013
  - **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology**, *Misurata, Libya*, May 2007
 -----------------
+
 ## Research & Work Experience
 ### Applied Post-Doctoral Fellow, Moffit Cancer Center, Aug 2019 - Present
 - *Apply machine learning on multiparameter MRI dataset*
