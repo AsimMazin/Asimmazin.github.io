@@ -6,15 +6,15 @@ permalink: /Resume/
 ---
 
 
-# Objective
+## Objective
 Place your objective here!
 ----------------------------------------------------------------------------------------------------------------
-# Education
+## Education
  - **Ph.D.**, *Electrical Engineering*, **University of South Florida**      *Tampa, FL*,       May 2019
  - **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**     *Carbondale, IL*,  May 2013
  - **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology** *Misurata, Libya*, May 2007
-- - - - - -
-# RESEARCH & WORK EXPERIENCE
+
+## RESEARCH & WORK EXPERIENCE
 ## Applied Post-Doctoral Fellow, Moffit Cancer Center, Aug 2019 - Present
 ### Apply machine learning on multiparameter MRI dataset
 - Using self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 24 patients.
