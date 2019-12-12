@@ -5,31 +5,31 @@ title: ""
 permalink: /Resume/
 ---
 
-# Asim M. Mazin, Ph.D.
+## Asim M. Mazin, Ph.D.
 -----------------
 
-## Summary {#summary}
+# Summary {#summary}
 - Engineering doctoral graduate possess a strong technical background, excellent verbal and written communication skills
 - Seeking engineer/research positions opportunities in 5G wireless systems, data science and machine learning applications
 
 -----------------
 
-## Education {#education}
+# Education {#education}
  - **Ph.D.**, *Electrical Engineering*, **University of South Florida**,      *Tampa, FL*,       May 2019
  - **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**,     *Carbondale, IL*,  May 2013
  - **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology**, *Misurata, Libya*, May 2007
 
 -----------------
 
-## Experience {#experince}
+# Experience {#experince}
 
-### H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
+H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
 : **Applied Post-Doctoral Fellow**, *Aug 2019 - Present*
 - *Apply machine learning on multiparameter MRI dataset*
     - Using self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 24 patients
     - Classify the tumors type from the activation maps using Learning Vector Quantization  (LVQ) with accuracy of 70%
 
-### University of South Florida, Tampa, FL
+University of South Florida, Tampa, FL
 : **Graduate Assistant/Researcher**, *i*WINLAB, *May 2016 - May 2019*
 - *Machine Learning in 5G Wireless Networks (Initial Access)*
     - Addressed the initial access in 5G Millimeter wave bands cellular systems using Recurrent Neural Network (GUR)
@@ -57,7 +57,7 @@ permalink: /Resume/
 
 -----------------
 
-## Selected Achievements
+# Selected Achievements
 
    - Published 9 articles to IEEE conferences
    - College of Engineering Research Day Poster Award, 2016
@@ -65,7 +65,7 @@ permalink: /Resume/
 
 ------------------
 
-## Publications {#publications}
+# Publications {#publications}
 
   - A. Mazin, M. Elkourdi and R. D. Gitlin, "Comparative Performance Analysis of Beam Sweeping Using a Deep Neural Net and Random Starting Point in mmWave 5G New Radio," (UEMCON) 2018, New York City, NY, USA, November 8-9, 2018.
   - A. Mazin, M. Elkourdi and R. D. Gitlin, “Accelerating Beam Sweeping in mmWave Standalone 5G New Radios using Recurrent Neural Networks,” (VTC2018-Fall), Chicago, IL, USA
@@ -78,7 +78,7 @@ permalink: /Resume/
 
   ------------------
 
-## Certificates
+# Certificates
  - SQL for Data Science,
  - Sequence Models
  - Improving Deep Neural Networks: Hyper-parameter tuning, Regularization and Optimization
