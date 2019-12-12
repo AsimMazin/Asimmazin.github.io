@@ -28,6 +28,7 @@ Moffit Cancer Center, Tampa, FL
 - *Apply machine learning on multiparameter MRI dataset*
     - Using self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 24 patients
     - Classify the tumors type from the activation maps using Learning Vector Quantization  (LVQ) with accuracy of 70%
+- - - - - -
 
 University of South Florida, Tampa, FL
 : **Graduate Assistant/Researcher**, *i*WINLAB, *May 2016 - May 2019*
@@ -52,11 +53,11 @@ University of South Florida, Tampa, FL
 - *Ultra-Low latency in 5G Network*
    - A Bayesian game cell selection / user association approach was proposed to achieve the ultra-low latency (1ms) in 5G Networks
    - Attains the 5G low end-to-end latency target (1ms) with a probability exceeding 80%.
-
+- - - - - -
 : **Teaching Assistant**, Electrical Enginiring Department, *Aug 2016 - May 2019*
    - Delivering lectures in Digital Communication & Wireless Networks and architecture courses
    - Preparing exams, grading assignments and exams, and setting up distance learning technology in the classroom
-
+- - - - - -
 : **Academic Tutor**, INTO USF Tutoring Center, *Aug 2014 - Dec 2018*
    - Tutor Electrical Engineering courses in Wireless & signal Processing area.
    - Lead a policy and procedure committee to revise the vision and mission statements of INTO touring center and mentor new tutors.
