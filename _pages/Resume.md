@@ -23,7 +23,7 @@ permalink: /Resume/
 
 ## Experience {#experince}
 
-### Moffit Cancer Center, Tampa, FL
+### H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
 : **Applied Post-Doctoral Fellow**, *Aug 2019 - Present*
 - *Apply machine learning on multiparameter MRI dataset*
     - Using self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 24 patients
