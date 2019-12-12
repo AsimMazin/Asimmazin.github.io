@@ -8,7 +8,7 @@ permalink: /Resume/
 # Asim M. Mazin, Ph.D.
 -----------------
 
-## Pofessional Summary
+## Summary {#summary}
 - Engineering doctoral graduate possess a strong technical background, excellent verbal and written communication skills
 - Seeking engineer/research positions opportunities in 5G Wireless Systems, data science and machine learning applications.
 
