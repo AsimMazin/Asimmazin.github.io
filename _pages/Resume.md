@@ -84,4 +84,16 @@ University of South Florida, Tampa, FL
 
   ------------------
 
+## Certificates
+ - SQL for Data Science,
+ - Sequence Models
+ - Improving Deep Neural Networks: Hyper-parameter tuning, Regularization and Optimization
+ - Structuring Machine Learning Projects
+ - Convolutional Neural Network
+ - Neural Networks and Deep Learning
+ - Certified Tutor II: CRLA’s International Tutor Training Program Certification
+
+ --------------------
+
+
 
