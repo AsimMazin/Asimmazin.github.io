@@ -10,7 +10,7 @@ permalink: /Resume/
 
 ## Summary {#summary}
 - Engineering doctoral graduate possess a strong technical background, excellent verbal and written communication skills
-- Seeking engineer/research positions opportunities in 5G Wireless Systems, data science and machine learning applications.
+- Seeking engineer/research positions opportunities in 5G wireless systems, data science and machine learning applications
 
 -----------------
 
@@ -26,7 +26,7 @@ permalink: /Resume/
 Moffit Cancer Center, Tampa, FL
 : **Applied Post-Doctoral Fellow**, *Aug 2019 - Present*
 - *Apply machine learning on multiparameter MRI dataset*
-    - Using self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 24 patients.
+    - Using self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 24 patients
     - Classify the tumors type from the activation maps using Learning Vector Quantization  (LVQ) with accuracy of 70%
 
 *i*WINLAB at University of South Florida, Tampa, FL
