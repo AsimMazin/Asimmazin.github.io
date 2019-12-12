@@ -5,9 +5,12 @@ title: ""
 permalink: /Resume/
 ---
 
+-----------------
 
-## Objective
-Place your objective here!
+### Pofessional Summary {#Pofessional Summary}
+• Engineering doctoral graduate possess a strong technical background, excellent verbal and written communication skills
+• Seeking engineer/research positions opportunities in 5G Wireless Systems, data science and machine learning applications.
+
 -----------------
 
 ## Education {#Education}
