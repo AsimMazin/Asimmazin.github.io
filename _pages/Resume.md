@@ -61,5 +61,13 @@ University of South Florida, Tampa, FL
    - Tutor Electrical Engineering courses in Wireless & signal Processing area.
    - Lead a policy and procedure committee to revise the vision and mission statements of INTO touring center and mentor new tutors.
 
-
 -----------------
+
+## Selected Achievements {# achievements}
+
+   - Published 9 articles to IEEE conferences
+   - College of Engineering Research Day Poster Award, 2016
+   - Tutor Excellent award 2015 and 2017
+
+------------------
+
