@@ -7,21 +7,21 @@ permalink: /Resume/
 
 -----------------
 
-### Pofessional Summary {#professional summary}
+## Pofessional Summary
 - Engineering doctoral graduate possess a strong technical background, excellent verbal and written communication skills
 - Seeking engineer/research positions opportunities in 5G Wireless Systems, data science and machine learning applications.
 
 -----------------
 
-### Education {#education}
+## Education {#education}
  - **Ph.D.**, *Electrical Engineering*, **University of South Florida**,      *Tampa, FL*,       May 2019
  - **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**,     *Carbondale, IL*,  May 2013
  - **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology**, *Misurata, Libya*, May 2007
 
 -----------------
 
-### Experience {#experince}
-Moffit Cancer Center
+## Experience {#experince}
+### Moffit Cancer Center
 : *Applied Post-Doctoral Fellow*
   ___Aug 2019-Present___
 - *Apply machine learning on multiparameter MRI dataset*
