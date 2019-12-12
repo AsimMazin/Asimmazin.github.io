@@ -71,3 +71,17 @@ University of South Florida, Tampa, FL
 
 ------------------
 
+## Publications {#publications}
+
+  - A. Mazin, M. Elkourdi and R. D. Gitlin, "Comparative Performance Analysis of Beam Sweeping Using a Deep Neural Net and Random Starting Point in mmWave 5G New Radio," (UEMCON) 2018, New York City, NY, USA, November 8-9, 2018.
+  - A. Mazin, M. Elkourdi and R. D. Gitlin, “Accelerating Beam Sweeping in mmWave Standalone 5G New Radios using Recurrent Neural Networks,” (VTC2018-Fall), Chicago, IL, USA
+  - A. Mazin, M. Elkourdi and R. D. Gitlin, “Comparison of Slotted Aloha-NOMA and CSMA/CA for M2M Communications in IoT Networks,” (VTC2018-Fall), Chicago, IL, USA
+  - M. Elkourdi, A. Mazin and R. D. Gitlin, "Slotted Aloha-NOMA with MIMO Beamforming for Massive M2M Communication in IoT Networks," (VTC2018-Fall), Chicago, IL, USA
+  - M. Elkourdi, A.  Mazin, Eren Balevi and R. D. Gitlin, "Enabling Slotted Aloha-NOMA for Massive M2M Communication in IoT Networks," IEEE 19th Wireless and Microwave Technology Conference (WAMICON), April 2018
+  - M. Elkourdi, A. Mazin and R. D. Gitlin “Towards Low Latency in 5G HetNets: A Bayesian Cell Selection / User Association Approach," IEEE 5G World Forum (5GWF'18) July 9-11, 2018 in Santa Clara, CA, USA
+  - A. Mazin, K. Davaslioglu, and R. D. Gitlin, “Secure Key Management Using Physical Layer Security for 5G Networking,” IEEE 18th Wireless and Microwave Technology Conference (WAMICON), April 2017
+  - A. Mazin and Crosby, Garth V. "Reducing the Peak to Average Power Ratio of MIMO-OFDM Systems." International Journal of Computer Networks & Communications (IJCNC) Vol.5, No.3, May 2013
+
+  ------------------
+
+
