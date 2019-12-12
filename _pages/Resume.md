@@ -24,8 +24,7 @@ permalink: /Resume/
 ## Experience {#experince}
 
  Moffit Cancer Center
-: *Applied Post-Doctoral Fellow*
-  <div style="text-align: right"> ___Aug 2019-Present___ </div>
+: *Applied Post-Doctoral Fellow* <div style="text-align: right"> **Aug 2019-Present** </div>
 - *Apply machine learning on multiparameter MRI dataset*
     - Using self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 24 patients.
     - Classify the tumors type from the activation maps using Learning Quantization Vector (LQV) with accuracy of 70%
