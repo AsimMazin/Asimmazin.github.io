@@ -9,10 +9,12 @@ permalink: /Resume/
 ## Objective
 Place your objective here!
 -----------------
-## Education
+
+## Education {#Education}
  - **Ph.D.**, *Electrical Engineering*, **University of South Florida**,      *Tampa, FL*,       May 2019
  - **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**,     *Carbondale, IL*,  May 2013
  - **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology**, *Misurata, Libya*, May 2007
+
 -----------------
 
 ## Research & Work Experience
