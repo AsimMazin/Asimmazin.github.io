@@ -5,7 +5,7 @@ title: ""
 permalink: /Resume/
 ---
 
-# Asim M. Mazin
+# Asim M. Mazin, Ph.D.
 -----------------
 
 ## Pofessional Summary
@@ -22,6 +22,7 @@ permalink: /Resume/
 -----------------
 
 ## Experience {#experince}
+
  Moffit Cancer Center
 : *Applied Post-Doctoral Fellow*
   ___Aug 2019-Present___
