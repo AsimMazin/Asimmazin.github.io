@@ -63,7 +63,7 @@ University of South Florida, Tampa, FL
 
 -----------------
 
-## Selected Achievements {# achievements}
+## Selected {#selected} Achievements {# achievements}
 
    - Published 9 articles to IEEE conferences
    - College of Engineering Research Day Poster Award, 2016
