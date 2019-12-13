@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Asim Mazin"
+  name             : "Asim Mazin, Ph.D."
   avatar           : "/images/Mazin1 copy.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Portfolio"
   location         : "Tampa,FL"
-  email            : "asimmazin@gmail.com"
+  email            : "asimmazin83@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
