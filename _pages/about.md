@@ -21,9 +21,9 @@ His research interests include Physical Layer Security, multiple access in massi
 - 1 U.S. patent.
 - Published 11 articles between journals and IEEE conferences as an author and a coauthor.
 
-## Skills
-- Machine Learning: Neural Networks and Deep Learning.
+## Skills:
+- **Machine Learning:** Neural Networks and Deep Learning.
 - **Framework:** TensorFlow and Keras.
-- **Programming**: Python (packages: NumPy, Pandas, Scikit-Learn) and MATLAB.
-- **Test Equipment**: Vector Signal Generator (VSG), Vector Signal Analyzer (VSA), and  USRP.
+- **Programming:** Python (packages: NumPy, Pandas, Scikit-Learn) and MATLAB.
+- **Test Equipment:** Vector Signal Generator (VSG), Vector Signal Analyzer (VSA), and  USRP.
 
