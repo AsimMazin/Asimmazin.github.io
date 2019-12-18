@@ -52,8 +52,17 @@ University of South Florida, Tampa, FL
    - Delivering lectures in Digital Communication & Wireless Networks and architecture courses
    - Preparing exams, grading assignments and exams, and setting up distance learning technology in the classroom
 : **Academic Tutor**, INTO USF Tutoring Center, *Aug 2014 - Dec 2018*
-   - Tutor Electrical Engineering courses in Wireless & signal Processing area.
+   - Tutor Electrical Engineering courses in wireless & signal processing area.
    - Lead a policy and procedure committee to revise the vision and mission statements of INTO touring center and mentor new tutors.
+
+College of Industrial Technology
+: **Teaching Assistant**, *Jul 2007 - Feb 2010*
+- *Preparing tutorials and providing helping sessions in the following undergraduate courses*
+  – Physics
+  – Mathematics
+  – Electrical and electronic circuits
+  – Digital communication systems
+  – Signals and systems
 
 -----------------
 
