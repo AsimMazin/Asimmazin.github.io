@@ -58,11 +58,11 @@ University of South Florida, Tampa, FL
 College of Industrial Technology
 : **Teaching Assistant**, *Jul 2007 - Feb 2010*
 - *Preparing tutorials and providing helping sessions in the following undergraduate courses*
-  - Physics
-  - Mathematics
-  - Electrical and electronic circuits
-  - Digital communication systems
-  - Signals and systems
+    - Physics
+    - Mathematics
+    - Electrical and electronic circuits
+    - Digital communication systems
+    - Signals and systems
 
 -----------------
 
