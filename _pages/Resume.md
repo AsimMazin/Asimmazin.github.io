@@ -5,23 +5,23 @@ title: ""
 permalink: /Resume/
 ---
 
-## Asim M. Mazin, Ph.D.
+### Asim M. Mazin, Ph.D.
 -----------------
 
-# Summary {#summary}
+## Summary {#summary}
 - Engineering doctoral graduate possess a strong technical background, excellent verbal and written communication skills
 - Seeking engineer/research positions opportunities in 5G wireless systems, data science and machine learning applications
 
 -----------------
 
-# Education {#education}
+## Education {#education}
  - **Ph.D.**, *Electrical Engineering*, **University of South Florida**,      *Tampa, FL*,       May 2019
  - **M.Sc.**, *Electrical Engineering*, **Southern Illinois University**,     *Carbondale, IL*,  May 2013
  - **B.Sc.**, *Electrical Engineering*, **College of Industrial Technology**, *Misurata, Libya*, May 2007
 
 -----------------
 
-# Experience {#experince}
+## Experience {#experince}
 
 H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
 : **Applied Post-Doctoral Fellow**, *Aug 2019 - Present*
@@ -43,21 +43,21 @@ University of South Florida, Tampa, FL
     - A novel method is proposed to exchange a secret key between two legitimate users using physical layer security methods
     - Achieved high secure communication when the main and eavesdropping channels are uncorrelated
 - *Multiple access for IoT networks*
-   - Design Slotted Aloha- NOMA (SAN) protocol that provides high throughput
-   - Substantial throughput gain of 5.5 dB relative to slotted Aloha
+    - Design Slotted Aloha- NOMA (SAN) protocol that provides high throughput
+    - Substantial throughput gain of 5.5 dB relative to slotted Aloha
 - *Ultra-Low latency in 5G Network*
-   - A Bayesian game cell selection / user association approach was proposed to achieve the ultra-low latency (1ms) in 5G Networks
-   - Attains the 5G low end-to-end latency target (1ms) with a probability exceeding 80%.
+    - A Bayesian game cell selection / user association approach was proposed to achieve the ultra-low latency (1ms) in 5G Networks
+    - Attains the 5G low end-to-end latency target (1ms) with a probability exceeding 80%.
 : **Teaching Assistant**, Electrical Enginiring Department, *Aug 2016 - May 2019*
-   - Delivering lectures in Digital Communication & Wireless Networks and architecture courses
-   - Preparing exams, grading assignments and exams, and setting up distance learning technology in the classroom
+    - Delivering lectures in Digital Communication & Wireless Networks and architecture courses
+    - Preparing exams, grading assignments and exams, and setting up distance learning technology in the classroom
 : **Academic Tutor**, INTO USF Tutoring Center, *Aug 2014 - Dec 2018*
-   - Tutor Electrical Engineering courses in wireless & signal processing area.
-   - Lead a policy and procedure committee to revise the vision and mission statements of INTO touring center and mentor new tutors.
+    - Tutor Electrical Engineering courses in wireless & signal processing area.
+    - Lead a policy and procedure committee to revise the vision and mission statements of INTO touring center and mentor new tutors.
 
 College of Industrial Technology
 : **Teaching Assistant**, *Jul 2007 - Feb 2010*
-- *Preparing tutorials and providing helping sessions in the following undergraduate courses*
+- *Preparing tutorials and providing helping sessions in the following undergraduate courses:*
     - Physics
     - Mathematics
     - Electrical and electronic circuits
@@ -66,35 +66,35 @@ College of Industrial Technology
 
 -----------------
 
-# Selected Achievements
+## Selected Achievements
 
-   - Published 9 articles to IEEE conferences
-   - College of Engineering Research Day Poster Award, 2016
-   - Tutor Excellent award 2015 and 2017
+    - Published 9 articles to IEEE conferences
+    - College of Engineering Research Day Poster Award, 2016
+    - Tutor Excellent award 2015 and 2017
 
 ------------------
 
-# Publications {#publications}
+## Publications {#publications}
 
-   - A. Mazin, M. Elkourdi and R. D. Gitlin, "Comparative Performance Analysis of Beam Sweeping Using a Deep Neural Net and Random Starting Point in mmWave 5G New Radio," (UEMCON) 2018, New York City, NY, USA, November 8-9, 2018.
-   - A. Mazin, M. Elkourdi and R. D. Gitlin, “Accelerating Beam Sweeping in mmWave Standalone 5G New Radios using Recurrent Neural Networks,” (VTC2018-Fall), Chicago, IL, USA
-   - A. Mazin, M. Elkourdi and R. D. Gitlin, “Comparison of Slotted Aloha-NOMA and CSMA/CA for M2M Communications in IoT Networks,” (VTC2018-Fall), Chicago, IL, USA
-   - M. Elkourdi, A. Mazin and R. D. Gitlin, "Slotted Aloha-NOMA with MIMO Beamforming for Massive M2M Communication in IoT Networks," (VTC2018-Fall), Chicago, IL, USA
-   - M. Elkourdi, A.  Mazin, Eren Balevi and R. D. Gitlin, "Enabling Slotted Aloha-NOMA for Massive M2M Communication in IoT Networks," IEEE 19th Wireless and Microwave Technology Conference (WAMICON), April 2018
-   - M. Elkourdi, A. Mazin and R. D. Gitlin “Towards Low Latency in 5G HetNets: A Bayesian Cell Selection / User Association Approach," IEEE 5G World Forum (5GWF'18) July 9-11, 2018 in Santa Clara, CA, USA
-   - A. Mazin, K. Davaslioglu, and R. D. Gitlin, “Secure Key Management Using Physical Layer Security for 5G Networking,” IEEE 18th Wireless and Microwave Technology Conference (WAMICON), April 2017
-   - A. Mazin and Crosby, Garth V. "Reducing the Peak to Average Power Ratio of MIMO-OFDM Systems." International Journal of Computer Networks & Communications (IJCNC) Vol.5, No.3, May 2013
+    - A. Mazin, M. Elkourdi and R. D. Gitlin, "Comparative Performance Analysis of Beam Sweeping Using a Deep Neural Net and Random Starting Point in mmWave 5G New Radio," (UEMCON) 2018, New York City, NY, USA, November 8-9, 2018.
+    - A. Mazin, M. Elkourdi and R. D. Gitlin, “Accelerating Beam Sweeping in mmWave Standalone 5G New Radios using Recurrent Neural Networks,” (VTC2018-Fall), Chicago, IL, USA
+    - A. Mazin, M. Elkourdi and R. D. Gitlin, “Comparison of Slotted Aloha-NOMA and CSMA/CA for M2M Communications in IoT Networks,” (VTC2018-Fall), Chicago, IL, USA
+    - M. Elkourdi, A. Mazin and R. D. Gitlin, "Slotted Aloha-NOMA with MIMO Beamforming for Massive M2M Communication in IoT Networks," (VTC2018-Fall), Chicago, IL, USA
+    - M. Elkourdi, A.  Mazin, Eren Balevi and R. D. Gitlin, "Enabling Slotted Aloha-NOMA for Massive M2M Communication in IoT Networks," IEEE 19th Wireless and Microwave Technology Conference (WAMICON), April 2018
+    - M. Elkourdi, A. Mazin and R. D. Gitlin “Towards Low Latency in 5G HetNets: A Bayesian Cell Selection / User Association Approach," IEEE 5G World Forum (5GWF'18) July 9-11, 2018 in Santa Clara, CA, USA
+    - A. Mazin, K. Davaslioglu, and R. D. Gitlin, “Secure Key Management Using Physical Layer Security for 5G Networking,” IEEE 18th Wireless and Microwave Technology Conference (WAMICON), April 2017
+    - A. Mazin and Crosby, Garth V. "Reducing the Peak to Average Power Ratio of MIMO-OFDM Systems." International Journal of Computer Networks & Communications (IJCNC) Vol.5, No.3, May 2013
 
   ------------------
 
-# Certificates
-  - SQL for Data Science,
-  - Sequence Models
-  - Improving Deep Neural Networks: Hyper-parameter tuning, Regularization and Optimization
-  - Structuring Machine Learning Projects
-  - Convolutional Neural Network
-  - Neural Networks and Deep Learning
-  - Certified Tutor II: CRLA’s International Tutor Training Program Certification
+## Certificates
+    - SQL for Data Science,
+    - Sequence Models
+    - Improving Deep Neural Networks: Hyper-parameter tuning, Regularization and Optimization
+    - Structuring Machine Learning Projects
+    - Convolutional Neural Network
+    - Neural Networks and Deep Learning
+    - Certified Tutor II: CRLA’s International Tutor Training Program Certification
 
  --------------------
 
