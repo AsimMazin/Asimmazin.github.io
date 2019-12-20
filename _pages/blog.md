@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Blog"
 permalink: /about/
 classes: wide
 header:
