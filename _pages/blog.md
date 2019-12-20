@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-permalink: /about/
+permalink: /blog/
 classes: wide
 header:
     #image:
@@ -11,7 +11,7 @@ His Master's thesis was Peak-to-Average Power Reduction (PAPR) in OFDM using Par
 In May 2019, he received his Ph.D. degree under the supervision of Prof. **Richard D. Gitlin** at the University of South Florida with the Innovations in Wireless Information Networking (iWINLAB).
 His research interests include Physical Layer Security, multiple access in massive M2M IoT networks, applying machine learning in 5G Wireless Networks. At present, he is a Postdoctoral Research Fellow at H. Lee Moffitt Cancer Center & Research Institute.
 
-## Specialties:
+## Research Intrests:
 - Applied Machine Learning in wireless systems
 - Digital Signal Processing
 - 5G NR and MIMO systems
@@ -19,7 +19,7 @@ His research interests include Physical Layer Security, multiple access in massi
 
 ## Summary of Qualifications:
 - 1 U.S. patent.
-- Published 11 articles between journals and IEEE conferences as an author and a coauthor.
+- Published 11 articles between journals and IEEE conferences.
 
 ## Skills:
 - **Machine Learning:** Neural Networks and Deep Learning.
