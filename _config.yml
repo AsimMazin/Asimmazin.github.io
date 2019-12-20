@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "Google scholar"
-      icon: "fab fa-fw fa-Google scholar"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=sSDO9HsAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
