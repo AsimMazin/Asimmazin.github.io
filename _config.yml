@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Asim Mazin, Ph.D."
   avatar           : "/images/Mazin1 copy.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Portfolio"
+  bio              : ""
   location         : "Tampa,FL"
   email            : "asimmazin83@gmail.com"
   links:
