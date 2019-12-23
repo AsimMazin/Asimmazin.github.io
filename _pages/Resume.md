@@ -76,16 +76,25 @@ College of Industrial Technology
 
 ## Publications {#publications}
 
-  - A. Mazin, M. Elkourdi and R. D. Gitlin, "Comparative Performance Analysis of Beam Sweeping Using a Deep Neural Net and Random Starting Point in mmWave 5G New Radio," (UEMCON) 2018, New York City, NY, USA, November 8-9, 2018.
-  - A. Mazin, M. Elkourdi and R. D. Gitlin, “Accelerating Beam Sweeping in mmWave Standalone 5G New Radios using Recurrent Neural Networks,” (VTC2018-Fall), Chicago, IL, USA
-  - A. Mazin, M. Elkourdi and R. D. Gitlin, “Comparison of Slotted Aloha-NOMA and CSMA/CA for M2M Communications in IoT Networks,” (VTC2018-Fall), Chicago, IL, USA
-  - M. Elkourdi, A. Mazin and R. D. Gitlin, "Slotted Aloha-NOMA with MIMO Beamforming for Massive M2M Communication in IoT Networks," (VTC2018-Fall), Chicago, IL, USA
-  - M. Elkourdi, A.  Mazin, Eren Balevi and R. D. Gitlin, "Enabling Slotted Aloha-NOMA for Massive M2M Communication in IoT Networks," IEEE 19th Wireless and Microwave Technology Conference (WAMICON), April 2018
-  - M. Elkourdi, A. Mazin and R. D. Gitlin “Towards Low Latency in 5G HetNets: A Bayesian Cell Selection / User Association Approach," IEEE 5G World Forum (5GWF'18) July 9-11, 2018 in Santa Clara, CA, USA
-  - A. Mazin, K. Davaslioglu, and R. D. Gitlin, “Secure Key Management Using Physical Layer Security for 5G Networking,” IEEE 18th Wireless and Microwave Technology Conference (WAMICON), April 2017
-  - A. Mazin and Crosby, Garth V. "Reducing the Peak to Average Power Ratio of MIMO-OFDM Systems." International Journal of Computer Networks & Communications (IJCNC) Vol.5, No.3, May 2013
+  1. A. Mazin, M. Elkourdi and R. D. Gitlin, "SAN- Slotted Aloha-NOMA a MAC Protocol for M2M Communications," Information Theory and Applications (ITA 2019): San Diego, February 11-15, 2019.
+  2. M. Elkourdi, A. Mazin and R. D. Gitlin, "Performance Analysis for Virtual-Cell Based CoMP 5G Networks Using Deep Recurrent Neural Nets," the 18th annual Wireless Telecommunications Symposium (WTS 2019), New York City, NY, USA, April 9-12, 2019.
+  3. A. Mazin, M. Elkourdi and R. D. Gitlin, "Comparative Performance Analysis of Beam Sweeping Using a Deep Neural Net and Random Starting Point in mmWave 5G New Radio," (UEMCON) 2018, New York City, NY, USA, November 8-9, 2018.
+  4. M. Elkourdi, A. Mazin and R. D. Gitlin, "Optimization of 5G Virtual Cell Based Coordinated Multipoint Networks Using Deep Machine Learning," International Journal of Wireless & Mobile Networks (IJWMN) Vol. 10, No. 4, August 2018.
+  5. A. Mazin, M. Elkourdi and R. D. Gitlin, “Accelerating Beam Sweeping in mmWave Standalone 5G New Radios using Recurrent Neural Networks,” (VTC2018-Fall), Chicago, IL, USA
+  6. A. Mazin, M. Elkourdi and R. D. Gitlin, “Comparison of Slotted Aloha-NOMA and CSMA/CA for M2M Communications in IoT Networks,” (VTC2018-Fall), Chicago, IL, USA
+  7. M. Elkourdi, A. Mazin and R. D. Gitlin, "Slotted Aloha-NOMA with MIMO Beamforming for Massive M2M Communication in IoT Networks," (VTC2018-Fall), Chicago, IL, USA
+  8. M. Elkourdi, A.  Mazin, Eren Balevi and R. D. Gitlin, "Enabling Slotted Aloha-NOMA for Massive M2M Communication in IoT Networks," IEEE 19th Wireless and Microwave Technology Conference (WAMICON), April 2018
+  9. M. Elkourdi, A. Mazin and R. D. Gitlin “Towards Low Latency in 5G HetNets: A Bayesian Cell Selection / User Association Approach," IEEE 5G World Forum (5GWF'18) July 9-11, 2018 in Santa Clara, CA, USA
+  10. A. Mazin, K. Davaslioglu, and R. D. Gitlin, “Secure Key Management Using Physical Layer Security for 5G Networking,” IEEE 18th Wireless and Microwave Technology Conference (WAMICON), April 2017
+  11. A. Mazin and Crosby, Garth V. "Reducing the Peak to Average Power Ratio of MIMO-OFDM Systems." International Journal of Computer Networks & Communications (IJCNC) Vol.5, No.3, May 2013
 
   ------------------
+
+## Patents {#patents}
+
+  1. US Patent No. US 10,327,123 B1, *System and Method for Machine-to-Machine Communication in an Internet-of-Things Network*, June 18, 2019.
+
+--------------------
 
 ## Certificates
   - SQL for Data Science,
