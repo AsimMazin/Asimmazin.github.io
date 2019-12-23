@@ -219,6 +219,13 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  blogs:
+    output: true
+    permalink: /:collection/:path/
+
+
 
 # Sass/SCSS
 sass:
@@ -293,6 +300,17 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _blogs
+  - scope:
+      path: ""
+      type: blogs
     values:
       layout: single
       author_profile: true
