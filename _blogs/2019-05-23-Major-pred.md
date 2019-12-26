@@ -1,6 +1,7 @@
 ---
 title: "Major recommendation for new students"
 data: 2016-08-23
+class: wide
 tags: [Machine Learning, Prediction Models]
 header:
 excerpt: "Major recomender"
