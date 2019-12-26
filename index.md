@@ -4,7 +4,7 @@ author_profile: true
 title: "About"
 classes: wide
 header:
-    image: "/images/frontimage.jpg"
+    image: "/assets/images/frontimage.jpg"
 ---
 **Asim M. Mazin** received a B.S. degree in Electronics and Telecommunications engineering in 2007 from the College of
 Industrial Technology Misurata, Libya, and an M.S. degree in Electrical and Computer Engineering with a concentration in wireless communications from Southern Illinois University in 2013.
