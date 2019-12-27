@@ -12,9 +12,9 @@ coming soon ..
 The goal of this project is to implement the NIPALS (non-linear iterative partial least squares) PCA algorithm in Python.
 The project will include the following steps:
 
-1- Read the data file, error check and handling of missing values,
-2- Convert to a matrix format, remove mean, and scale to unit variance (optional),
-3- Calculate the PCA model using NIPALS, calculate relevant statistics, save/export results.
+- Read the data file, error check and handling of missing values.
+- Convert to a matrix format, remove mean, and scale to unit variance (optional).
+- Calculate the PCA model using NIPALS, calculate relevant statistics, save/export results.
 
 ### Data Exploring Analysis
 coming soon...
