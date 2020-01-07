@@ -9,7 +9,7 @@ permalink: /Resume/
 -----------------
 
 ## Summary {#summary}
-- Engineering doctoral graduate possess a strong technical background, excellent verbal and written communication skills
+- Engineering doctoral graduate possesses a strong technical background, excellent verbal and written communication skills
 - Seeking engineer/research positions opportunities in 5G wireless systems, data science and machine learning applications
 
 -----------------
@@ -43,8 +43,9 @@ University of South Florida, Tampa, FL
     - A novel method is proposed to exchange a secret key between two legitimate users using physical layer security methods
     - Achieved high secure communication when the main and eavesdropping channels are uncorrelated
 - *Multiple access for IoT networks*
-    - Design Slotted Aloha- NOMA (SAN) protocol that provides high throughput
-    - Substantial throughput gain of 5.5 dB relative to slotted Aloha
+    - Design M2M medium access protocol Slotted Aloha- NOMA (SAN).
+    - Low complexity and substantial throughput gain of 5.5 dB relative to slotted Aloha.
+
 - *Ultra-Low latency in 5G Network*
     - A Bayesian game cell selection / user association approach was proposed to achieve the ultra-low latency (1ms) in 5G Networks
     - Attains the 5G low end-to-end latency target (1ms) with a probability exceeding 80%.
