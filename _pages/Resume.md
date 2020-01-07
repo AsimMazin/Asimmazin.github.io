@@ -45,7 +45,6 @@ University of South Florida, Tampa, FL
 - *Multiple access for IoT networks*
     - Design M2M medium access protocol Slotted Aloha- NOMA (SAN).
     - Low complexity and substantial throughput gain of 5.5 dB relative to slotted Aloha.
-
 - *Ultra-Low latency in 5G Network*
     - A Bayesian game cell selection / user association approach was proposed to achieve the ultra-low latency (1ms) in 5G Networks
     - Attains the 5G low end-to-end latency target (1ms) with a probability exceeding 80%.
