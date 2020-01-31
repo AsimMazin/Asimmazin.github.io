@@ -76,6 +76,7 @@ College of Industrial Technology
 
 ## Publications {#publications}
 
+  1. A. Mazin, et al, "Identification of Sarcomatoid De-Differentiation in Renal Cell Carcinoma by Machine Learning on Multiparametric MRI," Accepted for Oral presentation at the scientific sessions of the ISMRM 28th Annual Meeting & Exhibition in Sydney, Australia.
   1. A. Mazin, M. Elkourdi and R. D. Gitlin, "SAN- Slotted Aloha-NOMA a MAC Protocol for M2M Communications," Information Theory and Applications (ITA 2019): San Diego, February 11-15, 2019.
   2. M. Elkourdi, A. Mazin and R. D. Gitlin, "Performance Analysis for Virtual-Cell Based CoMP 5G Networks Using Deep Recurrent Neural Nets," the 18th annual Wireless Telecommunications Symposium (WTS 2019), New York City, NY, USA, April 9-12, 2019.
   3. A. Mazin, M. Elkourdi and R. D. Gitlin, "Comparative Performance Analysis of Beam Sweeping Using a Deep Neural Net and Random Starting Point in mmWave 5G New Radio," (UEMCON) 2018, New York City, NY, USA, November 8-9, 2018.
