@@ -26,8 +26,8 @@ permalink: /Resume/
 H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
 : **Applied Post-Doctoral Fellow**, *Aug 2019 - Present*
 - *Apply machine learning on multiparameter MRI dataset*
-    - Using self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 34 patients
-    - Classify the tumors type from the activation maps using Learning Vector Quantization  (LVQ) with accuracy of 70%
+    - Using a self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 34 patients
+    - Classify the tumors type from the activation maps using Learning Vector Quantization  (LVQ) with an accuracy of 70%
 
 University of South Florida, Tampa, FL
 : **Graduate Assistant/Researcher**, *i*WINLAB, *May 2016 - May 2019*
