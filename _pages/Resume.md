@@ -24,8 +24,14 @@ permalink: /Resume/
 ## Experience {#experince}
 
 H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
-: **Applied Post-Doctoral Fellow**, *Aug 2019 - Present*
-- *Apply machine learning on multiparameter MRI dataset*
+: **Applied Post-Doctoral Fellow**, *Sep 2020 - Present*
+- *Development of differential diagnostics for cancer by machine learning on multiparameter Magnetic Resonance Imaging (mpMRI) and digitized multiplexed immunohistochemistry (MIHC) images.*
+    - Using a self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 34 patients
+    - Classify the tumors type from the activation maps using Learning Vector Quantization  (LVQ) with an accuracy of 70%
+
+H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
+: **Applied Post-Doctoral Fellow**, *Aug 2019 - Sep 2020*
+- *Development of differential diagnostics for cancer by machine learning on multiparameter Magnetic Resonance Imaging (mpMRI) and digitized multiplexed immunohistochemistry (MIHC) images.*
     - Using a self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 34 patients
     - Classify the tumors type from the activation maps using Learning Vector Quantization  (LVQ) with an accuracy of 70%
 
@@ -76,7 +82,7 @@ College of Industrial Technology
 
 ## Publications {#publications}
 
-  1. A. Mazin, et al, "Identification of Sarcomatoid De-Differentiation in Renal Cell Carcinoma by Machine Learning on Multiparametric MRI," Accepted for Oral presentation at the scientific sessions of the ISMRM 28th Annual Meeting & Exhibition in Sydney, Australia.
+  1. A. Mazin, et al, "Identification of Sarcomatoid De-Differentiation in Renal Cell Carcinoma by Machine Learning on Multiparametric MRI," Oral presentation at the scientific sessions of the ISMRM 28th Annual Meeting & Exhibition.
   2. A. Mazin, M. Elkourdi and R. D. Gitlin, "SAN- Slotted Aloha-NOMA a MAC Protocol for M2M Communications," Information Theory and Applications (ITA 2019): San Diego, February 11-15, 2019.
   3. M. Elkourdi, A. Mazin and R. D. Gitlin, "Performance Analysis for Virtual-Cell Based CoMP 5G Networks Using Deep Recurrent Neural Nets," the 18th annual Wireless Telecommunications Symposium (WTS 2019), New York City, NY, USA, April 9-12, 2019.
   4. A. Mazin, M. Elkourdi and R. D. Gitlin, "Comparative Performance Analysis of Beam Sweeping Using a Deep Neural Net and Random Starting Point in mmWave 5G New Radio," (UEMCON) 2018, New York City, NY, USA, November 8-9, 2018.
@@ -93,7 +99,9 @@ College of Industrial Technology
 
 ## Patents {#patents}
 
-  1. US Patent No. US 10,327,123 B1, *System and Method for Machine-to-Machine Communication in an Internet-of-Things Network*, June 18, 2019.
+  1. US Patent No. US 10,587,999 B2, *Enabling slotted Aloha-NOMA for massive machine-to-machine (M2M) communication in internet of thing (IoT) networks*, March 10, 2020.
+  2. US Patent No. US 10,327,123 B1, *System and Method for Machine-to-Machine Communication in an Internet-of-Things Network*, June 18, 2019.
+
 
 --------------------
 
