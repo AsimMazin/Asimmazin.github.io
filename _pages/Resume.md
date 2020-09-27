@@ -9,8 +9,8 @@ permalink: /Resume/
 -----------------
 
 ## Summary {#summary}
-- Engineering doctoral graduate possesses a strong technical background, excellent verbal and written communication skills
-- Seeking engineer/research positions opportunities in 5G wireless systems, data science and machine learning applications
+Engineering doctoral graduate possesses a strong technical background, excellent verbal and written communication skills
+
 
 -----------------
 
