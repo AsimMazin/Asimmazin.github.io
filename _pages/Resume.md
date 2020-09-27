@@ -23,7 +23,7 @@ permalink: /Resume/
 
 ## Experience {#experince}
 
-Qualcomm , San Diego, CA
+Qualcomm Technologies, Inc. , San Diego, CA
 : **5G SW Applications Engineer**, *Sep 2020 - Present*
 
 H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
