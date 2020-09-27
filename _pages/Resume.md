@@ -23,15 +23,14 @@ permalink: /Resume/
 
 ## Experience {#experince}
 
-H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
-: **Applied Post-Doctoral Fellow**, *Sep 2020 - Present*
-- *Development of differential diagnostics for cancer by machine learning on multiparameter Magnetic Resonance Imaging (mpMRI) and digitized multiplexed immunohistochemistry (MIHC) images.*
-    - Using a self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 34 patients
-    - Classify the tumors type from the activation maps using Learning Vector Quantization  (LVQ) with an accuracy of 70%
+Qualcomm , San Diego, CA
+: ****, *Sep 2020 - Present*
 
 H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
 : **Applied Post-Doctoral Fellow**, *Aug 2019 - Sep 2020*
 - *Development of differential diagnostics for cancer by machine learning on multiparameter Magnetic Resonance Imaging (mpMRI) and digitized multiplexed immunohistochemistry (MIHC) images.*
+    - Processed 43GB of MHIC image data
+    - Applied SOM-LVQ on the processed data of three panels (Each has six tissue microarrays (TMA)) for ~407 patients to predict whether the patient is long term survival or short term survival
     - Using a self-organized map (SOM) to reduce the dimensionality and create activation map form multiparameter MRI of 34 patients
     - Classify the tumors type from the activation maps using Learning Vector Quantization  (LVQ) with an accuracy of 70%
 
