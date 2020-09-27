@@ -24,7 +24,7 @@ permalink: /Resume/
 ## Experience {#experince}
 
 Qualcomm , San Diego, CA
-: ****, *Sep 2020 - Present*
+: **5G SW Applications Engineer**, *Sep 2020 - Present*
 
 H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL
 : **Applied Post-Doctoral Fellow**, *Aug 2019 - Sep 2020*
