@@ -19,7 +19,7 @@ His research interests include Physical Layer Security, multiple access in massi
 - Applied Machine Learning in mpMRI
 
 ## Summary of Qualifications:
-- 1 U.S. patent.
+- 2 U.S. patent.
 - Published 11 articles between journals and IEEE conferences.
 
 ## Skills:
