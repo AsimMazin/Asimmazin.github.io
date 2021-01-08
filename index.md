@@ -16,10 +16,10 @@ His research interests include Physical Layer Security, multiple access in massi
 - Applied Machine Learning in wireless systems
 - Digital Signal Processing
 - 5G NR and MIMO systems
-- Applied Machine Learning in mpMRI
+- Applied Machine Learning in mpMRI and digitized multiplexed immunohistochemistry (MHIC) image data
 
 ## Summary of Qualifications:
-- 2 U.S. patent.
+- 2 U.S. patents.
 - Published 11 articles between journals and IEEE conferences.
 
 ## Skills:
